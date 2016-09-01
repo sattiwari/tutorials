@@ -1,4 +1,4 @@
-package akka
+package akkaExamples
 
 import java.net.InetSocketAddress
 

@@ -1,4 +1,4 @@
-package akka
+package akkaExamples
 
 import akka.actor.{Actor, ActorRef, ActorSystem, Props}
 import com.typesafe.scalalogging.LazyLogging
