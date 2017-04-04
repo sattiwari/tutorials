@@ -12,6 +12,7 @@ val dependecies = Seq("org.scalatest" % "scalatest_2.11" % "2.2.2",
   "io.spray" % "spray-can_2.11" % "1.3.1",
   "org.scala-lang.modules" %% "scala-parser-combinators" % "1.0.4",
   "com.madhukaraphatak" %% "java-sizeof" % "0.1",
+  "org.fusesource.leveldbjni" % "leveldbjni-all" % "1.8",
   "com.google.guava"            %   "guava"                              %   "20.0")
 
 libraryDependencies ++= dependecies
