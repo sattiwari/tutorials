@@ -47,4 +47,6 @@ object MonoidDemo extends App {
     def zero = (a: A) => a
   }
 
+//  TODO - add example of property based testing
+
 }
