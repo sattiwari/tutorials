@@ -42,4 +42,9 @@ object MonoidDemo extends App {
     def zero = None
   }
 
+  def endoMonoid[A]: Monoid[A => A] = new Monoid[A => A] {
+    def op(a1: A => A, a2: A => A) = a1 compose a2
+    def zero = (a: A) => a
+  }
+
 }
