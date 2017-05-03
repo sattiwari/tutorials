@@ -1,5 +1,7 @@
 package hackerrank.implementation
 
+import hackerrank.Utils._
+
 /**
   * Created by stiwari on 5/3/2017 AD.
   */
