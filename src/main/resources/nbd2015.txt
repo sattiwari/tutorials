@@ -1,0 +1,15 @@
+Cash and deposits with Central Bank 4 21,526,137 37,682,944
+Due from banks 5 19,851,579 13,850,467
+Loans and receivables 6 176,815,034 177,003,613
+Islamic financing and investment products 8 26,325,279 19,219,912
+Trading securities 9 588,679 1,329,907
+Investment securities 10 15,883,727 14,365,803
+Investments in associates and joint ventures 12 2,041,459 1,411,687
+Positive fair value of derivatives 37 2,398,874 2,445,559
+Investment properties 13 1,130,916 1,907,291
+Goodwill and intangibles 15 5,831,018 5,924,878
+Customer acceptances 42 3,777,759 4,632,810
+Other assets 16 5,865,935 3,138,764
+Property and equipment 14 2,576,990 2,336,860
+Assets held for sale 11 - 827,829
+TOTAL ASSETS 284,613,386 286,078,324
